@@ -26,3 +26,4 @@ print("Here are the three most expensive insurance costs in our medical records:
 
 occurrences_paul = names.count("Paul")
 print("There are " + str(occurrences_paul) + " individuals with the name Paul in our medical records.")
+
